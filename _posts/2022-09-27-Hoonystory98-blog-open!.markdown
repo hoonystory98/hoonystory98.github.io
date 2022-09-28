@@ -3,6 +3,7 @@ layout: post
 title: "Hoonystory98 blog open!"
 date: 2022-09-27 17:45:34 +0900
 categories: news
+img: posts/20220927/KakaoTalk_20220928_201548176.jpg
 ---
 
 블로그를 오픈했습니다.
